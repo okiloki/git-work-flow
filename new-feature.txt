@@ -1,3 +1,5 @@
 #new-feature
 
 asdf
+
+added another thing to our feature
